@@ -1,9 +1,6 @@
 import React from 'react'
 
-
 const SearchMovie = ({onChangeForm, searchMovie }) => {
-
-
     return(
         <div className="container">
             <div className="row">
@@ -20,7 +17,6 @@ const SearchMovie = ({onChangeForm, searchMovie }) => {
                 </form>
                 </div>
             </div>
-
         </div>
     )
 }

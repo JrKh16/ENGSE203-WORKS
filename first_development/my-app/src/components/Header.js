@@ -6,14 +6,14 @@ export const Header = () => {
 
         width: '100%',
         padding: '2%',
-        backgroundColor: "red",
-        color: 'white',
-        textAlign: 'center'
+        backgroundColor: "lime",
+        color: 'black',
+        textAlign: 'center',
     }
 
     return(
         <div style={headerStyle}>
-            <h1>Movie List Management</h1>
+            <h1>Jirawat 007</h1>
         </div>
     )
 }
