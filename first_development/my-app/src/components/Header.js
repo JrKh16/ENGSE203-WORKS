@@ -8,7 +8,8 @@ export const Header = () => {
         padding: '2%',
         backgroundColor: "lime",
         color: 'black',
-        textAlign: 'center',
+        textAlign: 'center'
+
     }
 
     return(
